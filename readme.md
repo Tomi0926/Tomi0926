@@ -8,7 +8,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.com/users/391240740878942208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="karoly_rab" height="30" width="40" /></a>
+<a href="https://discord.com/users/391240740878942208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">My partner(s):</h3>
+<p align="left">
+<a href="https://github.com/Kareszrk" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/81579751?v=4" alt="karoly_rab" width="128" height="128"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
