@@ -13,7 +13,7 @@
 
 <h3 align="left">My partner(s):</h3>
 <p align="left">
-<a href="https://github.com/Kareszrk" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/81579751?v=4" alt="karoly_rab" width="128" height="128"/></a>
+<a href="https://github.com/Kareszrk" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/81579751?v=4" alt="karoly_rab" width="64" height="64"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
