@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on multiple projects. Such as **an ALT:V roleplay server.** **A social media platform**
 
-- 📫 How to reach me **tamas2000@nextgen-system.hu**
+- 📫 How to reach me **tamas2000@nextgen-system.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
