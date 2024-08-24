@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Tamás</h1>
 <h3 align="left">A professional JS developer from Hungary</h3>
 
-- 🔭 I’m currently working on multiple projects. Such as **an ALT:V roleplay server.** **A social media platform**
+- 🔭 I’m currently working on multiple projects. Such as **A social media platform**
 
 - 📫 How to reach me **tamas2000@nextgen-system.eu**
 
